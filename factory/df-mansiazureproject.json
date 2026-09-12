@@ -1,0 +1,15 @@
+{
+	"name": "df-mansiazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ee547a5a-9274-4ec0-9f60-91d0d876b61f",
+		"tenantId": "c409a52c-0521-4c68-a33d-aa4e842811a3"
+	}
+}
